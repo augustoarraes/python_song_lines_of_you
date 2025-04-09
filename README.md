@@ -1,6 +1,5 @@
-# Python Song: Lines ff You
+# Python Song
 
-Demorou alguns meses, mas saiu.
 
 ## 🎸 Lines of You
 
